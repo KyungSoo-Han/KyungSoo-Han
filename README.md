@@ -5,7 +5,7 @@
  
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" style="width:80px; height: 25px"/> 
  
- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" style="width:80px; height: 25px"/> 
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" style="width:60px; height: 25px"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" style="width:80px; height: 25px"/> 
  
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" style="width:80px; height: 25px"/> 
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" style="width:80px; height: 25px"/> 
