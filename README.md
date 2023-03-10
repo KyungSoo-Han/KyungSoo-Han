@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&customColorList=0,2,2,5,30&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyungSoo-Han&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact)](https://github.com/KyungSoo-Han/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact)](https://github.com/KyungSoo-Han/github-readme-stats) -->
 ### Programing Languages
 <img src="https://img.shields.io/badge/Java-FB542B?style=flat&&logoColor=white" style="width:50px; height: 25px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" style="width:80px; height: 25px"/>  
  
