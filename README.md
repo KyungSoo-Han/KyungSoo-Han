@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slicetext=Hello%World&animation=blinking&color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Hello%World&animation=blinking&color=gradient&customColorList=0,2,2,5,30)
 
 ### Programing Languages
 <img src="https://img.shields.io/badge/Java-FB542B?style=flat&&logoColor=white" style="width:50px; height: 25px"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white" style="width:80px; height: 25px"/>  
