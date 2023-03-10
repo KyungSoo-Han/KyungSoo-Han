@@ -12,6 +12,6 @@
  
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" style="width:80px; height: 25px"/> 
  
- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white" style="width:80px; height: 25px"/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white" style="width:110px; height: 25px"/>
 
 
