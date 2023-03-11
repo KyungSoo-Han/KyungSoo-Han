@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white" style="width:80px; height: 25px"/> 
  
 ### DB
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white" style="width:120px; height: 25px"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" style="width:80px; height: 25px"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white" style="width:130px; height: 25px"/>
 
