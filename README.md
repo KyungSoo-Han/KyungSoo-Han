@@ -10,38 +10,70 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발을 하고 있어요.
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Languages & Frameworks**
-- Java, Spring Boot, Spring Batch, Spring Framework
-- C#, .NET Framework, WinForms, ASP.NET
-- JavaScript, JSP, HTML, CSS
-- Shell Script, SQL
+## 🖥️ Languages & Scripting
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 
-**Desktop & UI**
-- WinForms (DevExpress, FarPoint Spread)
-- RealGrid2
-- Android (Java 기반 PDA 개발)
+## ⚙️ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-ED8B00?style=flat)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-333333?style=flat)
+![Quartz Scheduler](https://img.shields.io/badge/Quartz-990000?style=flat)
 
-**Database**
-- MSSQL, MariaDB, Oracle, MySQL, Redis
+## 🖼️ Frontend & UI
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat)
+![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=flat)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF6F00?style=flat)
+![FarPoint Spread](https://img.shields.io/badge/FarPoint%20Spread-00599C?style=flat)
+![RealGrid2](https://img.shields.io/badge/RealGrid2-1E90FF?style=flat)
+![Android](https://img.shields.io/badge/Android%20PDA-3DDC84?style=flat&logo=android&logoColor=white)
 
-**DevOps / Infra**
-- GitLab, GitHub, Bitbucket, Git
-- Jenkins, GitLab CI/CD
-- Nginx, Tomcat, IIS
-- Linux (Ubuntu, Amazon Linux), Windows Server
-- Docker, Docker Hub
-- Crontab, Shell
+## 🗄️ Database
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Tools & Utilities**
-- IntelliJ, Eclipse, Visual Studio, Android Studio
-- Swagger, Jira, Confluence, LDAP, Pinpoint APM
+## 🚀 DevOps & Infra
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=flat&logo=windows&logoColor=white)
+![Crontab](https://img.shields.io/badge/Crontab-555555?style=flat)
 
-**ETC**
-- Quartz Scheduler, MyBatis, JPA, QueryDSL
-- REST API, JWT, OAuth
-- 카카오 알림톡 API, 공공기관 Open API
+## 🛠️ Tools & Collaboration
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+
 
 ---
 
