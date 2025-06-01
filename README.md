@@ -1,68 +1,99 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World!&fontSize=80&fontAlignY=40&desc=Backend%20Developer%20%7C%20WMS%2FMES%20%7C%20Kafka%20%7C%20CI%2FCD&descAlignY=60&animation=fadeIn)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KyungSoo-Han&theme=onedark&row=1&margin-w=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KyungSoo-Han&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KyungSoo-Han&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KyungSoo-Han/KyungSoo-Han/output/github-contribution-grid-snake.svg"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Han%20KyungSoo&fontSize=60&fontAlignY=40&desc=Backend%20Developer%20|%20Java%20%26%20Spring%20Boot%20%26%20C%23&descAlignY=60)
 
 ---
 
-### 🧑‍💻 About Me
-- Java 백엔드 개발자이며, WMS/MES/ERP 등 기업용 시스템을 개발한 실무 경험이 있습니다.
-- Spring Boot, MyBatis, JPA 기반의 MSA 아키텍처 유지보수 및 신규 구축 경험이 있습니다.
-- Kafka, Redis 기반 이벤트 시스템을 구축해 재고 반영, 할당 처리, 실시간 동기화 등을 구현한 경험이 있습니다.
-- GitLab/Bitbucket 기반 CI/CD 환경에서 DevOps 업무를 수행하며, 개인 서버에 직접 구축한 경험도 있습니다.
-- Vue/React 프론트엔드 분석을 기반으로 API 개발 및 AdminLTE + Thymeleaf로 실무형 UI 구성 경험이 있습니다.
-- 실무에서 객체지향, 클린 코드, 테스트 코드 작성 원칙을 지키며 시스템의 확장성과 유지보수성을 고려합니다.
+### 👋 About Me
+
+안녕하세요! **Java, Spring Boot, C# 기반의 백엔드 개발자 한경수**입니다.
+
+- 업무 흐름을 기술로 풀어내는 데 강점이 있습니다.
+- 기술을 단순히 사용하는 게 아니라 "왜 사용하는지"를 이해하고 선택합니다.
+- 구조적 사고와 이해 중심의 커뮤니케이션을 중요하게 생각합니다.
 
 ---
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-FB542B?style=flat&logo=OpenJDK&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+### 🔧 Tech Stack
 
-### 🧰 Framework / Library
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-181717?style=flat&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-181717?style=flat&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-181717?style=flat&logoColor=white)
+#### Backend
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-### 🛠️ DevOps / Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+#### Frontend & UI
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/RealGrid2-1D3557?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 
-### 🌐 Environment
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white)
+#### Database
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-### 🗃️ Database
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+#### DevOps & Infra
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ---
 
-### 🔭 Current Focus
-- Kafka 기반 출고/할당/재고 이벤트 설계 및 처리
-- Redis + DB 재고 동기화 구조 확립 및 동시성 처리
-- 실무형 모듈 구조로 구성된 Web 기반 WMS 프로젝트 개발
-- RealGrid2, AdminLTE + Thymeleaf를 활용한 UI 및 업무화면 구성
+### 🚀 Project Highlights
 
-📫 Contact: hanks6160@gmail.com
+#### 📦 Bizcof WMS
+**소상공인을 위한 실시간 재고 관리 시스템**
+
+- **Kafka 기반 재고 비동기 처리 구조 설계**
+- **Redis 기반 채번 및 캐싱으로 성능 향상**
+- **멀티 모듈 구조 도입 및 전략 패턴 적용**
+- GitLab CI/CD 자동화 파이프라인 구축
+
+🔗 [서비스 바로가기](https://wms.bizcof.com) ｜ [GitLab Repo](https://git.hanks.kr/bizcof/bizcof)
+
+#### 🧩 One Framework
+**WinForms + Spring Boot 기반 하이브리드 업무 시스템 프레임워크**
+
+- WinForms 프론트 + REST API 백엔드 아키텍처 설계
+- 공통 컨트롤 UserControl 기반 재사용 구조 도입
+- DevExpress 기반 고속 UI 개발, 현장 맞춤형 커스터마이징 대응
+
+🔗 [백엔드 Swagger](https://one-api.solutionil.com/swagger-ui/index.html) ｜ [GitLab Repo](https://git.hanks.kr/one/one-be)
+
+---
+
+### 💼 Career
+
+#### (주) 타이드스퀘어  
+백엔드 개발자 @ Fintech팀 (2023.10 ~ 2025.04)
+
+- 시스템 DB/서버 안정화, 모듈 리팩토링, 로깅 체계 고도화
+- LDAP/Batch 기반 자동화, PG 정산 시스템 개발
+
+#### (주) 아셀씨앤아이  
+개발팀 과장 → 팀장 (2016.08 ~ 2023.04)
+
+- ERP/MES/WMS/OMS 등 다양한 업무 시스템 개발 리딩
+- Spring Boot API 서버, PDA(Android) 연동, API 인증 설계
+
+---
+
+### 🎓 Education & License
+
+- 동서울대학교 정보통신학과 졸업 (2010 ~ 2015)
+- 서울사이버대학교 컴퓨터공학과 재학 중 (2025 ~ )
+- 정보처리기사 (2022.09)
+
+---
+
+### 📫 Contact
+
+- GitLab: [git.hanks.kr/hanks](https://git.hanks.kr/hanks)
+- Email: hanks6160@gmail.com
+- Blog: 개발중 🛠️
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyungSoo-Han&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact&theme=react)
+
+---
+
+### 💡 Philosophy
+
+> 기술은 **이해하고 사용하는 것**이며,
+> 코드는 **흐름과 구조 중심**으로, 
+> 협업은 **명확한 커뮤니케이션**으로 완성된다고 믿습니다.
+
+---
+
+_"작은 개선을 반복하는 개발자, 한경수입니다."_
