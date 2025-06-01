@@ -75,8 +75,13 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 
 ---
 
+## 🏆 Stats & Activities
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungsoo-han&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungSoo-Han&theme=react)
+![Trophy](https://github-profile-trophy.vercel.app/?username=KyungSoo-Han&theme=flat&row=1&column=7)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KyungSoo-Han&theme=react-dark)
 
 ---
 
