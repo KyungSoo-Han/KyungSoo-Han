@@ -72,7 +72,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ## 📫 Contact
 
 📧 Email: hanks6160@gmail.com  
-🌐 GitHub: [KyungSoo-Han](https://github.com/KyungSoo-Han)
+🌐 GitHub: [kyungsoo-han](https://github.com/kyungsoo-han)
 
 ---
 
