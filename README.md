@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Han%20KyungSoo&fontSize=60&fontAlignY=40&desc=Backend%20Developer&descAlignY=60)
 
-### 👋 Hi, I'm KyungSoo Han
+### 👋 Hi, I'm Kyungsoo Han
 
 Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.  
 재고관리 시스템이나 업무용 프로그램을 만드는 걸 좋아하며,  
