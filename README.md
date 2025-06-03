@@ -11,13 +11,13 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 
 ---
 
-### 🖥️ Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -28,7 +28,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-333333?style=flat)
 ![Quartz Scheduler](https://img.shields.io/badge/Quartz-990000?style=flat)
 
-### 🎨 Frontend & UI
+### Frontend & UI
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat)
@@ -38,14 +38,14 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ![RealGrid2](https://img.shields.io/badge/RealGrid2-1E90FF?style=flat)
 ![Android](https://img.shields.io/badge/Android%20PDA-3DDC84?style=flat&logo=android&logoColor=white)
 
-### 🗄️ Database
+### Database
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### 🚀 DevOps & Infra
+### DevOps & Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -58,7 +58,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=flat&logo=windows&logoColor=white)
 
-### 🧰 Tools & Collaboration
+### Tools & Collaboration
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
@@ -71,7 +71,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 
 ---
 
-### 🏆 Stats & Activities
+### Stats & Activities
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungsoo-han&show_icons=true&theme=react)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungSoo-Han&theme=react)
