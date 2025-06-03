@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Han%20Kyungsoo&fontSize=60&fontAlignY=40&desc=Backend%20Developer&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Han%20Kyungsoo&fontSize=60&fontAlignY=40&desc=Developer&descAlignY=60)
 
 ### 👋 Hi, I'm Kyungsoo Han
 
