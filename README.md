@@ -1,18 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Han%20Kyungsoo&fontSize=60&fontAlignY=40&desc=Backend%20Developer&descAlignY=60)
 
+<div align="center">
+
 ### 👋 Hi, I'm Kyungsoo Han
 
 Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.  
 업무 자동화와 재고관리 시스템 등 현실 문제를 해결하는 코드를 좋아합니다.  
-기술을 단순히 쓰는 것에 그치지 않고, **"왜" 쓰는지, "어떻게" 동작하는지** 고민합니다.
-
+기술을 단순히 쓰는 것에 그치지 않고, **"왜" 쓰는지, "어떻게" 동작하는지** 고민합니다.  
 협업 시에는 **서로 이해할 수 있는 커뮤니케이션**을 통해 함께 성장하는 개발 문화를 지향합니다. 😊
 
 ---
 
 ### 🛠️ Tech Stack
-
-<div align="center">
 
 #### 💻 Languages  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -20,7 +19,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white"/>
 
-<br><br>
+<br>
 
 #### 🧩 Frameworks & Libraries  
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -32,7 +31,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/MyBatis-ED8B00?style=flat-square"/>
 <img src="https://img.shields.io/badge/QueryDSL-333333?style=flat-square"/>
 
-<br><br>
+<br>
 
 #### 🎨 Frontend & UI  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -43,7 +42,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/RealGrid2-1E90FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Android%20PDA-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-<br><br>
+<br>
 
 #### 🗄️ Database  
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
@@ -52,7 +51,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-<br><br>
+<br>
 
 #### ⚙️ DevOps & Infra  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -64,7 +63,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
-<br><br>
+<br>
 
 #### 🧰 Tools  
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
@@ -74,6 +73,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats
