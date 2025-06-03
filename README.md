@@ -9,6 +9,8 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 또한 커뮤니케이션을 중요하게 생각하며,  
 협업 시 이해하기 쉬운 설명을 통해 **같이 성장하는 개발**을 지향합니다. 😊
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungsoo-han&show_icons=true&theme=white)
+
 ---
 
 ### Languages
@@ -73,7 +75,6 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 
 ### Stats & Activities
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungsoo-han&show_icons=true&theme=white)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KyungSoo-Han&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyungSoo-Han&layout=compact&theme=white)
 
