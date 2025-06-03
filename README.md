@@ -66,12 +66,6 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 
----
-
-## 📫 Contact
-
-📧 Email: hanks6160@gmail.com  
-🌐 GitHub: [kyungsoo-han](https://github.com/kyungsoo-han)
 
 ---
 
