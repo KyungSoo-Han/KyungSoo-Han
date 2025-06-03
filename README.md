@@ -11,7 +11,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ---
 ### ⚙️ Tech Stack
 
-| Languages | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
+| Languages | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Frameworks & Libraries | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) ![DotNet](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg) ![JPA](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg) |
 | Frontend & UI | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![Android](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg) |
