@@ -73,7 +73,6 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 
-</div>
 
 ---
 
@@ -88,6 +87,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyungSoo-Han&theme=white" height="160"/>
 </p>
 
+</div>
 ---
 
 > _“작고 꾸준한 개선이 모여 좋은 시스템을 만든다고 믿습니다.”_
