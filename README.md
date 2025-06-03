@@ -6,8 +6,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 재고관리 시스템이나 업무용 프로그램을 만드는 걸 좋아하며,  
 기술을 단순히 사용하는 것을 넘어 **왜** 쓰는지, **어떻게** 동작하는지를 이해하려 노력합니다.
 
-또한 커뮤니케이션을 중요하게 생각하며,  
-협업 시 이해하기 쉬운 설명을 통해 **같이 성장하는 개발**을 지향합니다. 😊
+또한 커뮤니케이션을 중요하게 생각하며, 협업 시 이해하기 쉬운 설명을 통해 **같이 성장하는 개발**을 지향합니다. 😊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyungsoo-han&show_icons=true&theme=white)
 
