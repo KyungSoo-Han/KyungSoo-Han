@@ -2,14 +2,16 @@
 
 ### 👋 Hi, I'm Kyungsoo Han
 
+<p align="center">
 Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.  
 업무 자동화와 재고관리 시스템 등 현실 문제를 해결하는 코드를 좋아합니다.  
 기술을 단순히 쓰는 것에 그치지 않고, **"왜" 쓰는지, "어떻게" 동작하는지** 고민합니다.
 
 협업 시에는 **서로 이해할 수 있는 커뮤니케이션**을 통해 함께 성장하는 개발 문화를 지향합니다. 😊
-
+</p>
 ---
 
+<p align="center">
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
@@ -61,6 +63,7 @@ Java, Spring Boot, C#, WinForms 기반의 백엔드 개발자입니다.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
+</p>
 ---
 
 ### 📊 GitHub Stats
